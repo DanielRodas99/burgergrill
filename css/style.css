@@ -1,0 +1,105 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#cont {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    padding: 10px;
+    width: 70%;
+    margin-left: 15%;
+}
+#menus {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    background-color: rgba(113,228,254,1.00);
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    position: fixed;
+    background-image: url(../images/elena.png);
+}
+#t1 {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    background-color: rgba(255,247,152,1.00);
+    padding-top: 3px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 3px;
+    text-align: justify;
+}
+
+
+#t3 {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    background-color: #F19FA1;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#t4 {
+    background-color: #FFF798;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+#t5 {
+    background-color: #F19FA1;
+    padding-top: 5px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: left;
+    color: #000000;
+}
+#t6 {
+    padding: 10px;
+    color: #FFFFFF;
+    background-color: #9E1C1E;
+    background-image: url(../images/backback.png);
+}
+#cont #t5 img {
+    float: right;
+    margin-left: 20px;
+    margin-right: 5px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+
+
+#burgers {
+    background-color: rgba(203,169,170,1);
+    height: 300px;
+    width: 692px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#cont #burgers img {
+    padding-top: 0px;
+    margin-top: 0px;
+    float: none;
+}
+#t1 p img {
+    float: left;
+    margin-bottom: 2px;
+    margin-left: 0px;
+    margin-top: 3px;
+    margin-right: 15px;
+}
+
+#cont #t4 img {
+    clear: both;
+    float: left;
+    margin-right: 11px;
+    margin-top: 0px;
+    margin-left: 3px;
+}
+#t3 p img {
+    float: right;
+    margin-right: 3px;
+    margin-left: 12px;
+}
